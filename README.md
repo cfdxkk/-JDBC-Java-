@@ -10,3 +10,5 @@ JDBC<br>
 先把java项目导入至编辑工具，然后导入MySQL数据库驱动
 <br>
 数据库中只有一条用户数据：username = “zhangsan”,password = "11"
+<br>---------------------<br>
+一点也不面向对象
